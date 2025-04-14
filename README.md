@@ -1,3 +1,3 @@
 # nodejs com SonarQube Cloud
 
-Validação do teste de cobertura
+Validação da cobertura de testes
